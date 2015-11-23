@@ -18,8 +18,8 @@ They are in the Project folder, three projects seperately. If you want to know m
 
 2.Wind in Hawaii
 ----------------
-![Alt text](Projects/HawaiiWind/image/combine.jpg)
+![Alt text](Projects/HawaiiWind/image/combine.png)
 
 3.Disease Situation in Washington, DC.
 -----------------
-![Alt text](Projects/Washington/images/combine.jpg)
+![Alt text](Projects/Washington/images/combine.png)
