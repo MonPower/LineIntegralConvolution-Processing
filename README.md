@@ -1,7 +1,13 @@
-LIC on Processing
+Visualization Project on Processing
 ==========
 Introduction
 -------------
-This is a small project used to visualize the wind in Guam, which use the technique called Line integral convolution.
+This is a visualization projects done by Processing, it consists three parts.
 
-wind.txt is the data set, Code folder composes different version of the code, and the image is small of the result
+used to visualize the wind in Guam, which use the technique called Line integral convolution.
+
+  - Line Intergral Convolution Algorithm
+  - Wind in Hawaii
+  - Disease Situation in Washington, DC.
+
+They are in the Project folder, three projects seperately. If you want to know more, in the Presentation folder, it is my presentation for the whole project, while in Presentation/result folder, you could see three mp4 videos, which are summary result of this project.
